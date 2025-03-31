@@ -1,0 +1,11 @@
+$HOME/.config/rofi/theme.rasi
+
+* {
+    main-bg:            #0A1010B3;
+    main-fg:            #FFFFFFE6;
+    main-br:            #81A1C1E6;
+    main-ex:            rgba(129, 161, 193, 0.9);
+    select-bg:          #81A1C180;
+    select-fg:          #FFFFFFE6;
+     font: "Exo";
+}
