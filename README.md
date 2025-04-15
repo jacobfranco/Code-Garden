@@ -50,4 +50,4 @@ You can get it [here](https://github.com/hbin/top-programming-fonts/tree/master)
 
 I also use the theme **poimandres** for VSCode, which is also available for Neovim and Kitty if that's more your style. I prefer this theming over wallbash, even though wallbash might be better for some wallpapers.
 
-You can get poimandres [here](https://github.com/drcmda/poimandres-theme)
+You can get it [here](https://github.com/drcmda/poimandres-theme)
