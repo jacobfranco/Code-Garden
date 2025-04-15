@@ -44,10 +44,6 @@ I would add this:
 background_opacity 0.80
 ```
 
-I'm partial to the font **Menlo** for the terminal, so you can include that while you're at it. I also use that for VSCode too.
+I'm partial to the font [**Menlo**](https://github.com/hbin/top-programming-fonts/tree/master) for the terminal, so you can include that while you're at it. I also use that for VSCode too.
 
-You can get **Menlo** [here](https://github.com/hbin/top-programming-fonts/tree/master)
-
-I also use the theme **poimandres** for VSCode, which is also available for Neovim and Kitty if that's more your style. I prefer this theming over wallbash, even though wallbash might be better for some wallpapers.
-
-You can get **poimandres** [here](https://github.com/drcmda/poimandres-theme)
+I also use the theme [**poimandres**](https://github.com/drcmda/poimandres-theme) for VSCode, which is also available for Neovim and Kitty if that's more your style. I prefer this theming over wallbash, even though wallbash might be better for some wallpapers.
