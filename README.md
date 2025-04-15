@@ -32,18 +32,12 @@ Then choose Code Garden from the options.
 
 ## Additional Customization
 
-Adjusting the transparency of kitty enhances this theme. If you would like some additional transparency. In your kitty.conf:
-
-```
-~/.config/kitty/kitty.conf
-```
-
-I would add this:
+If you would like some additional transparency, add this in your `~/.config/kitty/kitty.conf`:
 
 ```
 background_opacity 0.80
 ```
 
-I'm partial to the font [**Menlo**](https://github.com/hbin/top-programming-fonts/tree/master) for the terminal, so you can include that while you're at it. I also use that for VSCode too.
+I'm partial to the font [**Menlo**](https://github.com/hbin/top-programming-fonts/tree/master) for the terminal, so you can include that while you're at it. I also use it for VSCode.
 
-I also use the theme [**poimandres**](https://github.com/drcmda/poimandres-theme) for VSCode, which is also available for Neovim and Kitty if that's more your style. I prefer this theming over wallbash, even though wallbash might be better for some wallpapers.
+I also use the theme [**poimandres**](https://github.com/drcmda/poimandres-theme) for VSCode, which is also available for Neovim and Kitty if that's more your style.
