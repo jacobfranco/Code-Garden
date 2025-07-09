@@ -38,6 +38,21 @@ If you would like some additional transparency, add this in your `~/.config/kitt
 background_opacity 0.80
 ```
 
-I'm partial to the font [**Menlo**](https://github.com/hbin/top-programming-fonts/tree/master) for the terminal, so you can include that while you're at it. I also use it for VSCode.
+## Recommended VSCode Setup
+
+I'm partial to the font [**Menlo**](https://github.com/hbin/top-programming-fonts/tree/master).
 
 I also use the theme [**poimandres**](https://github.com/drcmda/poimandres-theme) for VSCode, also available for Neovim if that's more your style.
+
+For icons, I like [**Carbon Product Icons**](https://open-vsx.org/vscode/item?itemName=antfu.icons-carbon).
+
+Add this to your global `settings.json`
+
+```
+{
+  "editor.fontFamily": "Menlo",
+  "editor.fontSize": 13.5,
+  "workbench.colorTheme": "poimandres",
+  "workbench.productIconTheme": "icons-carbon"
+}
+```
